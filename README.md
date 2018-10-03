@@ -21,5 +21,6 @@ A list to discover red team tooling and methodology for penetration testing and 
 
 [Curated list of public penetration test reports released by several consulting firms and academic security groups](https://github.com/juliocesarfort/public-pentesting-reports)
 
-
 [Awesome Static Analysis](https://github.com/mre/awesome-static-analysis)
+
+[Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
