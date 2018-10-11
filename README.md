@@ -24,3 +24,5 @@ A list to discover red team tooling and methodology for penetration testing and 
 [Awesome Static Analysis](https://github.com/mre/awesome-static-analysis)
 
 [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
+
+[Awesome CTF](https://github.com/We5ter/Awesome-Platforms/blob/master/CTF-Platforms.md)
