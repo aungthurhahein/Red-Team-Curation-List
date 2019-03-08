@@ -7,6 +7,8 @@ A list to discover red team tooling and methodology for penetration testing and 
 
 [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest)
 
+[Pentest-Wiki](https://github.com/nixawk/pentest-wiki)
+
 [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 [Awesome Pentest Cheat Sheets ](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
